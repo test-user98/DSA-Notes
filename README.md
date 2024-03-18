@@ -111,29 +111,6 @@ Searching
 
 <img src="assets/Visualizing Recursion.jpg" alt="Visualizing Recursion - Recursion Tree" />
 
-### What is Tail Recursion ?
-
-- When the last function call is the last statement in the body, it is called **Tail Recursion**
-- Take the programs *NumbersExampleRecursion* and *Fibonacci* to understand tail recursion
-  - In the numbers example, the *print(i)* recursive call is the last statement, hence it is a Tail Recusion
-  - Whereas, in the Fibonacci program, the last statement is a return statement which is waiting for the execution of the two recursive calls *fibo(n-1)* and *fibo(n-2)*. Hence it is not a Tail Recursion.
-
-### Tail call optimization
-
-- Usage of accumulator for storing answers
-- **Factorial Example:**
-- ![Factorial Code](https://i.ytimg.com/vi/2bRGmoZbK_Y/mqdefault.jpg)
-- **Fibonacci Example:**
-- ![Fibonacci Code](https://wa-cdn.azureedge.net/photos/size(700)/api/attachments/att/25/Linkedin-JavaScript-Tail-Call-Optimization---Fibonacci-Series.png/Linkedin-JavaScript-Tail-Call-Optimization---Fibonacci-Series.700.jpg)
-
-
-### Types of Recurrence relations
-
-1. Linear recurrence relation -> Fibonacci Number
-2. Divide & Conquer recurrence relation -> Binary Search
-
----
-
 ## Patterns
 
 1. Stack is Building
