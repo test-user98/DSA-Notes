@@ -1,12 +1,6 @@
 # DSA-Notes
 This contains all the topic discussed in your sessions (will keep on getting updated)
 
-Topics:
-
-Recursion
-
-Trees
-
 
 # Recursion
 
