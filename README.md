@@ -4,9 +4,8 @@ This contains all the topic discussed in your sessions (will keep on getting upd
 Topics:
 
 Recursion
-LinkedList
-Sorting
-Searching
+
+Trees
 
 
 # Recursion
